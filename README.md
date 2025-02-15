@@ -28,7 +28,7 @@ Pexels Downloader is a Python script that allows you to download images and vide
 
 1. Clone the repository:
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/3XCeptional/pexel_downloader
    cd pexel_downloader
    ```
 
