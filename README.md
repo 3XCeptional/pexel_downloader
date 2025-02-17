@@ -118,3 +118,4 @@ echo "Artificial Intelligence" | python app.py - -n 1
 
 - **Rate Limiting:** The script includes a delay between requests to comply with the Pexels API rate limit of 200 requests per hour.
 - **Output Directory:** Downloaded media files are saved in the `downloads` directory by default. You can change this using the `-d` or `--output` option.
+This is a test commit by 3XCeptional
